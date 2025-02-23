@@ -54,6 +54,9 @@ Error: [0.0035]
 ## Visualization
 The script generates a plot of the **Tanh Activation Function** to illustrate its shape and properties.
 
+![image](https://github.com/user-attachments/assets/adf9ccb0-d383-4512-ba87-7769d10f8a14)
+
+
 ## License
 This project is open-source. Feel free to modify and use it for educational purposes.
 
