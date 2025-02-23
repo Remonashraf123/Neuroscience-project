@@ -35,13 +35,6 @@ pip install numpy matplotlib
   - Computes final output.
 - Prints results and plots the **Tanh Activation Function**.
 
-## Usage
-Run the script using:
-```bash
-python filename.py
-```
-Replace `filename.py` with your actual file name.
-
 ## Example Output
 ```
 Hidden Layer Input: [ 0.2 -0.1]
